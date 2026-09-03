@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-amber-500: #e6b000;
+  --color-amber-400: #f5c01a;
+  --color-amber-600: #cc9c00;
+  --color-yellow-500: #e6b000;
+  --color-yellow-400: #f5c01a;
+}
+
+:root {
+  --bg-primary: #040404;
+  --color-accent: #e6b000;
+}
+
+body {
+  background-color: #040404;
+  color: #e2e8f0;
+}
